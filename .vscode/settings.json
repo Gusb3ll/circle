@@ -1,0 +1,12 @@
+{
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"files.exclude": {
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.turbo": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+	}
+}
